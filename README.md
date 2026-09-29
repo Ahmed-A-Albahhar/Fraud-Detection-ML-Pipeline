@@ -1,7 +1,7 @@
 # Fraud Detection & Anomaly Recognition ML Pipeline
 
 ## 📌 Project Overview
-This project focuses on identifying fraudulent credit card transactions through advanced machine learning techniques[cite: 20]. Leveraging a Kaggle dataset of over 1.29 million transactions and 23 features, the objective was to build and evaluate predictive models capable of distinguishing fraudulent activities from legitimate ones to enhance financial system security.
+This project focuses on identifying fraudulent credit card transactions through advanced machine learning techniques. Leveraging a Kaggle dataset of over 1.29 million transactions and 23 features, the objective was to build and evaluate predictive models capable of distinguishing fraudulent activities from legitimate ones to enhance financial system security.
 
 ## 💡 Business Impact & Key Takeaways
 * **High-Precision Detection:** Engineered an XGBoost classification model that achieved over 99.7% accuracy in identifying fraudulent transactions, enabling reliable real-time transaction monitoring.
